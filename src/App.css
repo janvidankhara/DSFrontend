@@ -1,0 +1,13 @@
+body{
+        background-image: linear-gradient(to right, gray , Lightgray );
+
+}
+.header h1{
+    color: white;
+    text-align: center;
+    font-size: 60px;
+}
+.header{
+    background-color: black;
+    margin-bottom:100px;
+}
